@@ -5,9 +5,9 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
 
 ## Table of Contents
  - [Tutorials and Courses]
- [Deep Learning for NLP](#deeplearning for NLP)
- sdcsdcc
- - [Deep Learning for NLP](#deep-learning-for-nlp) - [Deep Learning for NLP](#deep-learning-for-nlp) - [Deep Learning for NLP](#deep-learning-for-nlp) - [Deep Learning for NLP](#deep-learning-for-nlpscadcacass
+ 
+ - [Deep Learning for NLP](#deep-learning-for-nlp)
+ 
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
 
 [Course Website] : http://cs231n.stanford.edu/
