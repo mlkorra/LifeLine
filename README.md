@@ -5,7 +5,7 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
 
 
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
-Course Website : http://cs231n.stanford.edu/
+[Course Website] : http://cs231n.stanford.edu/
 
 
 [NLP] : 
