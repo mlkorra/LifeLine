@@ -9,7 +9,7 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
 [Course Website] : http://cs231n.stanford.edu/
 
 
-[NLP] : 
+[NLP] : https://nlp.stanford.edu/ 
       
 [Andrew's Blog] : http://karpathy.github.io/neuralnets/
 
