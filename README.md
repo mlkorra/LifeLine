@@ -16,3 +16,4 @@ Course Website : http://cs231n.stanford.edu/
 
 [Andrew'S medium BLog] : https://medium.com/@karpathy to use as a Newsletter.
 
+[Chess for Reinforcement Learning] : https://erikbern.com/2014/11/29/deep-learning-for-chess.html
