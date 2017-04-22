@@ -3,7 +3,11 @@ Repository for all the guides and Useful Resources for all Purposes.
 
 MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-
+## Table of Contents
+ - [Tutorials and Courses]
+ [Deep Learning for NLP](#deeplearning for NLP)
+ sdcsdcc
+ - [Deep Learning for NLP](#deep-learning-for-nlp) - [Deep Learning for NLP](#deep-learning-for-nlp) - [Deep Learning for NLP](#deep-learning-for-nlp) - [Deep Learning for NLP](#deep-learning-for-nlpscadcacass
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
 
 [Course Website] : http://cs231n.stanford.edu/
@@ -18,3 +22,16 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
 [Andrew'S medium BLog] : https://medium.com/@karpathy to use as a Newsletter.
 
 [Chess for Reinforcement Learning] : https://erikbern.com/2014/11/29/deep-learning-for-chess.html
+
+
+## Deep Learning for NLP
+[Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures)
+ +lecture slides and course description for the Deep Natural Language Processing course offered in Hilary Term 2017 at the University of Oxford.
+[Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)
+Class by [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). 2016 content was updated to make use of Tensorflow. Lecture slides and reading materials for 2016 class [here](http://cs224d.stanford.edu/syllabus.html). Videos for 2016 class [here](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam). Note that there are some lecture videos missing for 2016 (lecture 9, and lectures 12 onwards). All videos for 2015 class [here](https://www.youtube.com/playlist?list=PLmImxx8Char8dxWB9LRqdpCTmewaml96q)
+
+[Udacity Deep Learning](https://classroom.udacity.com/courses/ud730)
+Deep Learning course on Udacity (using Tensorflow) which covers a section on using deep learning for NLP tasks. This section covers how to implement Word2Vec, RNN's and LSTMs.
+
+[A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
