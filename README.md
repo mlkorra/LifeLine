@@ -7,7 +7,7 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  - [Tutorials and Courses]
  
  - [Deep Learning for NLP](#deep-learning-for-nlp)
- 
+ - [News Letters](#newsletters)
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
 
 [Course Website] : http://cs231n.stanford.edu/
