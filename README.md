@@ -35,3 +35,8 @@ Deep Learning course on Udacity (using Tensorflow) which covers a section on usi
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
+
+
+[Installing Ubuntu16.04 Dual Boot](https://www.quora.com/How-can-I-dual-boot-my-laptop-with-Linux-and-Windows/answer/Kaustubh-Hiw%CE%B1re)
+
+[Deep Learning Newsletters](https://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp)
