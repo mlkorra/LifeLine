@@ -51,3 +51,7 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 
 
 [3 OCR FrameWork](https://arxiv.org/pdf/1509.05962.pdf)
+
+
+## ML INDIA (http://ml-india.org/ml-companies/) 
+
