@@ -7,7 +7,10 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  - [Tutorials and Courses]
  
  - [Deep Learning for NLP](#deep-learning-for-nlp)
+ 
  - [News Letters](#newsletters)
+ 
+ - [Computer Vision Projects](#cv_projects)
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
 
 [Course Website] : http://cs231n.stanford.edu/
@@ -55,3 +58,10 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 
 ## ML INDIA (http://ml-india.org/ml-companies/) 
 
+
+## Computer Vision Projects
+[Page turns with Head Recognition](https://chaidarun.com/page-turner) 
+
+
+## Open AI
+[Open AI](https://openai.com/)
