@@ -42,10 +42,12 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
 [Deep Learning Newsletters](https://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp)
 
 ## COOL Projects
-Telugu Character Recognition  [1](http://www.academia.edu/29176316/Telugu_numeral_recognition_using_machine_learning_techniques)
+Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/29176316/Telugu_numeral_recognition_using_machine_learning_techniques)
 
 
-[2](http://www.indjst.org/index.php/indjst/article/view/79996/61956) 
+
+[2 Feature Set for Character Recognition ](http://www.indjst.org/index.php/indjst/article/view/79996/61956) 
 
 
-[3 OCR FramWork](https://arxiv.org/pdf/1509.05962.pdf)
+
+[3 OCR FrameWork](https://arxiv.org/pdf/1509.05962.pdf)
