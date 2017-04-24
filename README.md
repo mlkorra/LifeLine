@@ -12,6 +12,8 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  
  - [Computer Vision Projects](#computer-vision-projects)
  
+ - [Blogs](#blogs)
+ 
  
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
 
@@ -67,3 +69,7 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 
 ## Open AI
 [Open AI](https://openai.com/)
+
+
+## Blogs
+[Colah's Blog](http://colah.github.io/)
