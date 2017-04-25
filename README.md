@@ -48,6 +48,10 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
 
 [Deep Learning Newsletters](https://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp)
 
+
+[Udacity Course](https://classroom.udacity.com/courses/ud730)
+
+
 ## COOL Projects
 Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/29176316/Telugu_numeral_recognition_using_machine_learning_techniques)
 
