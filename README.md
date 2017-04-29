@@ -25,6 +25,8 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
 [Andrew's Blog] : http://karpathy.github.io/neuralnets/
 
 
+[Deep Learning in Ubuntu] : http://iamaaditya.github.io/2016/01/Deep-Learning-software-installation-guide-on-fresh-Ubuntu/#upgrade-the-ubuntu 
+
 
 [Andrew'S medium BLog] : https://medium.com/@karpathy to use as a Newsletter.
 
@@ -85,3 +87,5 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 
 ## Blogs
 [Colah's Blog](http://colah.github.io/)
+
+
