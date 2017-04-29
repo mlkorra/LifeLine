@@ -75,5 +75,11 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 [Open AI](https://openai.com/)
 
 
+## Advanced Algorithms
+[Advanced Algorithms](http://people.csail.mit.edu/moitra/854.html)
+
+
+
+
 ## Blogs
 [Colah's Blog](http://colah.github.io/)
