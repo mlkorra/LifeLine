@@ -77,7 +77,7 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 
 ## Advanced Algorithms
 [Advanced Algorithms](http://people.csail.mit.edu/moitra/854.html)
-
+[Mit course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
 
 
