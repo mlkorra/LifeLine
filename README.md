@@ -95,3 +95,7 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 [Syllabus](http://cse.iitkgp.ac.in/~wbcm/cgi-bin/wbcm/common/go.cgi)
 
 
+## Semester 5 
+
+(Syllabus)(http://cse.iitkgp.ac.in/syllabus2.php#CS30003)
+
