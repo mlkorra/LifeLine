@@ -89,3 +89,9 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 [Colah's Blog](http://colah.github.io/)
 
 
+
+## Computer Organisation and Architecture
+
+[Syllabus](http://cse.iitkgp.ac.in/~wbcm/cgi-bin/wbcm/common/go.cgi)
+
+
