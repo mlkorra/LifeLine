@@ -14,6 +14,7 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  
  - [Blogs](#blogs)
  
+ - [Books to Read](#books)
  
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
 
@@ -100,3 +101,6 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 ## Semester 5 
 
 [Syllabus](http://cse.iitkgp.ac.in/syllabus2.php#CS30003)
+
+## Books to Read
+[The subtle way of stop giving F*** to others](https://www.readanybook.com/online/565750) 
