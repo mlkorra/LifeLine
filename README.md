@@ -89,6 +89,8 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 ## Blogs
 [Colah's Blog](http://colah.github.io/)
 
+[Fantastic Blog and Productivity and book Summary](https://paulminors.com/blog)
+
 
 
 ## Computer Organisation and Architecture
