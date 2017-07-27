@@ -94,6 +94,7 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 
 [Syllabus](http://cse.iitkgp.ac.in/~wbcm/cgi-bin/wbcm/common/go.cgi)
 [Video Lectures](https://www.youtube.com/watch?v=03fhijH6e2w&index=16&list=PLw0fM2uDN4J5f1juGVzOGVWGGNMm2Znhn)
+[Best Resource](http://nptel.ac.in/courses/106103068/pdf/coa.pdf) 
 
 
 ## Semester 5 
