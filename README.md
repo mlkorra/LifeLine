@@ -93,9 +93,9 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 ## Computer Organisation and Architecture
 
 [Syllabus](http://cse.iitkgp.ac.in/~wbcm/cgi-bin/wbcm/common/go.cgi)
+[Video Lectures](https://www.youtube.com/watch?v=03fhijH6e2w&index=16&list=PLw0fM2uDN4J5f1juGVzOGVWGGNMm2Znhn)
 
 
 ## Semester 5 
 
 [Syllabus](http://cse.iitkgp.ac.in/syllabus2.php#CS30003)
-
