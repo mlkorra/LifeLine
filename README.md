@@ -16,6 +16,8 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  
  - [Books to Read](#books)
  
+ - [Philosophy](#phil)
+ 
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
 
 [Course Website] : http://cs231n.stanford.edu/
@@ -106,3 +108,7 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 
 ## Books to Read
 [The subtle way of stop giving F*** to others](https://www.readanybook.com/online/565750#383023) 
+
+
+## Philosophy 
+[Ayn Rand's Ideal Man](https://www.youtube.com/watch?v=1ixclrtypKo)
