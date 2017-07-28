@@ -14,9 +14,9 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  
  - [Blogs](#blogs)
  
- - [Books to Read](#books)
+ - [Books to Read](#books-to-read)
  
- - [Philosophy](#phil)
+ - [Philosophy](#philosophy)
  
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
 
