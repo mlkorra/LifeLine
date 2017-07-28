@@ -108,7 +108,7 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 
 ## Books to Read
 [The subtle way of stop giving F*** to others](https://www.readanybook.com/online/565750#383023) 
-
+[FOCUS](https://read.amazon.in/?asin=B00EQZN930)
 
 ## Philosophy 
 [Ayn Rand's Ideal Man](https://www.youtube.com/watch?v=1ixclrtypKo)
