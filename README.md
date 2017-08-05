@@ -61,6 +61,8 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
 
 [Udacity Course](https://classroom.udacity.com/courses/ud730)
 
+New Course [Stanford Course](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
 
 ## COOL Projects
 [1 Telugu Character Recognition : Numerical Recognition](http://www.academia.edu/29176316/Telugu_numeral_recognition_using_machine_learning_techniques)
