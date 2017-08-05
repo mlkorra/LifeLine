@@ -20,6 +20,8 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  
  - [Machine Learning](#machine-learning)
  
+ - [R Programming]()#r-programming)
+ 
  
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
 
@@ -120,3 +122,6 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 
 ## Machine Learning
 [Resoources to learn ML](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
+
+## R Programming
+[Video Lectures](https://www.youtube.com/watch?v=tCjns0EpAo8&list=PLw5h0DiJ-9PAOOFS2LfXxoEVla4w_59Th)
