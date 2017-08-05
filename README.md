@@ -18,6 +18,9 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  
  - [Philosophy](#philosophy)
  
+ - [Machine Learning](#machine-learning)
+ 
+ 
 [CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
 
 [Course Website] : http://cs231n.stanford.edu/
@@ -113,3 +116,7 @@ Telugu Character Recognition  [1 Numerical Recognition](http://www.academia.edu/
 
 ## Philosophy 
 [Ayn Rand's Ideal Man](https://www.youtube.com/watch?v=1ixclrtypKo)
+
+
+## Machine Learning
+[Resoources to learn ML](https://www.analyticsvidhya.com/blog/2016/10/16-new-must-watch-tutorials-courses-on-machine-learning/)
