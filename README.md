@@ -23,22 +23,25 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  - [R Programming]()#r-programming)
  
  
-[CNN] : https://www.youtube.com/watch?v=yp9rwI_LZX8
-
-[Course Website] : http://cs231n.stanford.edu/
+[CNN](https://www.youtube.com/watch?v=yp9rwI_LZX8)
 
 
-[NLP] : https://nlp.stanford.edu/ 
+[Course Website](http://cs231n.stanford.edu/)
+
+
+[NLP](https://nlp.stanford.edu/) 
       
-[Andrew's Blog] : http://karpathy.github.io/neuralnets/
+      
+[Andrew's Blog](http://karpathy.github.io/neuralnets/)
 
 
-[Deep Learning in Ubuntu] : http://iamaaditya.github.io/2016/01/Deep-Learning-software-installation-guide-on-fresh-Ubuntu/#upgrade-the-ubuntu 
+[Deep Learning in Ubuntu](http://iamaaditya.github.io/2016/01/Deep-Learning-software-installation-guide-on-fresh-Ubuntu/#upgrade-the-ubuntu) 
 
 
-[Andrew'S medium BLog] : https://medium.com/@karpathy to use as a Newsletter.
+[Andrew'S medium BLog](https://medium.com/@karpathy to use as a Newsletter)
 
-[Chess for Reinforcement Learning] : https://erikbern.com/2014/11/29/deep-learning-for-chess.html
+
+[Chess for Reinforcement Learning](https://erikbern.com/2014/11/29/deep-learning-for-chess.html)
 
 
 ## Deep Learning for NLP
