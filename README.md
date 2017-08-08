@@ -20,7 +20,9 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  
  - [Machine Learning](#machine-learning)
  
- - [R Programming]()#r-programming)
+ - [R Programming](#r-programming)
+ 
+ - [Artificial Intelligence Course](#artificial-intelligence-course)
  
  
 [CNN](https://www.youtube.com/watch?v=yp9rwI_LZX8)
@@ -132,3 +134,8 @@ New Course [Stanford Course](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL
 
 ## R Programming
 [Video Lectures](https://www.youtube.com/watch?v=tCjns0EpAo8&list=PLw5h0DiJ-9PAOOFS2LfXxoEVla4w_59Th)
+
+
+## Artificial Intelligence Course
+[IIT KGP AUTUMN SEM 2017](https://drive.google.com/drive/folders/0Bw-bPRCTUilzUWFKdGRWOXNpVEE)
+
