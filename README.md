@@ -26,7 +26,6 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  
  - [Algorithms](#algorithms)
  
- - [Sexy Deep Learning](#sexy-deep-learning)
  
  
 [CNN](https://www.youtube.com/watch?v=yp9rwI_LZX8)
