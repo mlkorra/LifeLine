@@ -26,6 +26,8 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  
  - [Algorithms](#algorithms)
  
+ - [Sexy Deep Learning](#sexy-deep-learning)
+ 
  
 [CNN](https://www.youtube.com/watch?v=yp9rwI_LZX8)
 
@@ -64,6 +66,9 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
 [Installing Ubuntu16.04 Dual Boot](https://www.quora.com/How-can-I-dual-boot-my-laptop-with-Linux-and-Windows/answer/Kaustubh-Hiw%CE%B1re)
 
 [Deep Learning Newsletters](https://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp)
+
+
+[Sexy Deep Learning](http://course.fast.ai/)
 
 
 [Udacity Course](https://classroom.udacity.com/courses/ud730)
