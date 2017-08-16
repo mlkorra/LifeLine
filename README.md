@@ -26,6 +26,7 @@ MarkDown Sheet : https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
  
  - [Algorithms](#algorithms)
  
+ - [Amazon Web Servies](#amazon-web-services)
  
  
 [CNN](https://www.youtube.com/watch?v=yp9rwI_LZX8)
@@ -148,3 +149,7 @@ New Course [Stanford Course](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL
 
 ## Algorithms
 [Algorithms Slides](http://bioinfo.ict.ac.cn/~dbu/AlgorithmCourses/CS711008Z/CS711008Z_2013.html)
+
+## Amazon Web Services
+[AWS](http://cs231n.github.io/aws-tutorial/)
+
