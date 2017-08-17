@@ -153,3 +153,8 @@ New Course [Stanford Course](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL
 ## Amazon Web Services
 [AWS](http://cs231n.github.io/aws-tutorial/)
 
+
+## Machine Learning
+[Awesome](http://www.favouriteblog.com/learn-machine-learning-90-days/)
+
+
