@@ -156,5 +156,8 @@ New Course [Stanford Course](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL
 
 ## Machine Learning
 [Awesome](http://www.favouriteblog.com/learn-machine-learning-90-days/)
+[Tom Mitchell](http://www.cs.cmu.edu/~tom/mlbook-chapter-slides.html)
+
+
 
 
