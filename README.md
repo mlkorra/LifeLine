@@ -160,5 +160,9 @@ New Course [Stanford Course](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL
 [Tom Mitchell](http://www.cs.cmu.edu/~tom/mlbook-chapter-slides.html)
 
 
+## Placement Preparation
+[Dev on Mission](https://medium.com/@Mitron/placement-preparation-iit-kgp-cse-89d7b7b37de3)
+
+
 
 
