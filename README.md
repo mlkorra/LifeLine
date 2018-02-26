@@ -167,3 +167,7 @@ New Course [Stanford Course](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL
 ## Local Installation Softwares(without root privileges)
 [Installation without root privileges](https://unix.stackexchange.com/questions/42567/how-to-install-program-locally-without-sudo-privileges)
 
+
+## Guide to Receptive Fields - CNN
+[A guide to receptive field for CNNs](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
+
