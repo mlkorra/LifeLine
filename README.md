@@ -171,3 +171,6 @@ New Course [Stanford Course](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL
 ## Guide to Receptive Fields - CNN
 [A guide to receptive field for CNNs](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 
+## Guide to Preparing for ML Interviews
+[Guide to prepare for ML interviews](https://docs.google.com/presentation/d/1KmmchoykI_dJUYe5mw8Mrz1HdZlM6NE8wSIV7uVKF0A/edit#slide=id.p)
+
